@@ -2,7 +2,7 @@
 ### Welcome to my User Page!
 
 
-<img src="https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_219/v1/websites4/live-prod/immuno/research/pic5_131072_5197_v2.png" height="293" width = "187"></img>
+<img src="https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_219/v1/websites4/live-prod/immuno/research/pic5_131072_5197_v2.png" height="293" width = "150"></img>
 ![Another picture of me trying to smile :|](https://avatars.githubusercontent.com/u/60420820?v=4)
 <img src="https://www.biospace.com/getasset/83298754-d463-4202-a940-9af7c0dca39e" height="293"></img>
 
@@ -16,4 +16,21 @@ Because I am really not that interesting you see. I am ***just your average Bioi
      - [x] Training a GAN to produce fake tumor images for image data augmentation, resolving the issue of data scarcity and class imbalance in tumor images datasets. (Yes, you can [check it out](https://www.kaggle.com/ishaanash/gan-ddsm-augmentation) )
   3. [ ] In the future working on molecular sequence analysis based projects like error correction of reads and predicting the role of genomic region using CNNs or LSTMs
 - [ ] finally starting to answer why you (yes, you) respond differently to a drug, virus, pathogen, vaccine, or [your own immune cells](https://www.google.com/search?q=autoimmunity&oq=autoimmunity&aqs=chrome..69i57.3139j0j7&sourceid=chrome&ie=UTF-8) than me, or more precisely, what makes an immune system more successful, a big question that necessitates **Personalized Immunogenomics**, and involves open challenges like annotating the VDJ region of our genome and also experimental immunology approaches.
-- [x] and helping spawn other Bioinformatics ~~Reseaecher~~ students like me, by making and delivering bootcamp lessons on Bash, Python, NumPy and Pandas, Machine Learning, Alignment, Phylogeny, Dynamic Programming etc. at [UBIC](https://ubicucsd.github.io/)
+- [x] and helping spawn other Bioinformatics ~~Reseaecher~~ students like me, by making and delivering bootcamp lessons on Bash, Python, NumPy and Pandas, Machine Learning, Alignment, Phylogeny, Dynamic Programming etc. at [UBIC](https://ubicucsd.github.io/) so that people can start making notebooks starting with
+    ```python
+    #imports
+    import numpy as np
+    import pandas as pd
+    import scipy.stats as ss
+    from scipy.stats import norm
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+    import statsmodels.api as sm
+    from Bio import pairwise2
+    from Bio.Seq import Seq
+    
+    !wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1qalp5p_feGsd-G_FtOq6v-OAb5US3rDM' -O unidentified.fasta
+    record = SeqIO.read("unidentified.fasta", "fasta") 
+    ```
+
+
