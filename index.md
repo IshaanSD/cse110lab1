@@ -1,10 +1,8 @@
 # Hi!
 ## Welcome to my User Page!
 
-
-<img src="https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_219/v1/websites4/live-prod/immuno/research/pic5_131072_5197_v2.png" height="293" width = "180"></img>
-![Another picture of me trying to smile :|](https://avatars.githubusercontent.com/u/60420820?v=4)
-<img src="https://www.biospace.com/getasset/83298754-d463-4202-a940-9af7c0dca39e" height="293"></img>
+![](https://avatars.githubusercontent.com/u/60420820?v=4)
+<img src="https://www.biospace.com/getasset/83298754-d463-4202-a940-9af7c0dca39e" height="293">
 
 I go by **Ishaan Gupta**, and it's a pleasure to _meet_ you.
 Thank you for taking such genuine interest in getting to know me. 
@@ -33,5 +31,5 @@ Because I am really not that interesting you see. I am ***just your average Bioi
     record = SeqIO.read("unidentified.fasta", "fasta") 
     ```
 If you liked knowing and want to read again, [go back to the top](#hi)
-If you want to know what I'm up to, 
+If you want to know why I'm trying to create this weird intro, I'm actually just doing my CSE 110 homework. They have a Slack and all. ![](./screenshots/slacksc.png)
 
